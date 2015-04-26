@@ -1,6 +1,6 @@
 % esta entrada corresponde al primer ejemplo en el enunciado
 size(9).
-%  color   init  fin
+%  color  source sink
 c(blue,    9,1,  2,2).
 c(brown,   3,1,  8,4).
 c(red,     3,4,  1,7).
